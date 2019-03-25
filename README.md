@@ -2,13 +2,13 @@
 
 **Reports:
 
-ECAM Deliverable 7.2, Software Porting and Benchmarking Data I, https://zenodo.org/record/1191428
-ECAM Deliverable 7.4, Software Porting and Benchmarking Data II, https://zenodo.org/record/1210094
-ECAM Deliverable 2.1, Electronic structure E-CAM modules I, https://zenodo.org/record/1185170
-ECAM Deliverable 2.3, Electronic structure E-CAM modules II, https://zenodo.org/record/1207633
-ECAM Deliverable 3.1, Quantum dynamics E-CAM modules I, https://zenodo.org/record/1191081
-ECAM Deliverable 7.1, Hardware Developments I, https://zenodo.org/record/929533
-ECAM Deliverable 7.3, Hardware Developments I, https://zenodo.org/record/1207613
+[ECAM Deliverable 7.2, Software Porting and Benchmarking Data I](https://zenodo.org/record/1191428)  
+[ECAM Deliverable 7.4, Software Porting and Benchmarking Data II](https://zenodo.org/record/1210094)  
+[ECAM Deliverable 2.1, Electronic structure E-CAM modules I](https://zenodo.org/record/1185170)  
+[ECAM Deliverable 2.3, Electronic structure E-CAM modules II](https://zenodo.org/record/1207633)  
+[ECAM Deliverable 3.1, Quantum dynamics E-CAM modules I](https://zenodo.org/record/1191081)  
+[ECAM Deliverable 7.1, Hardware Developments I](https://zenodo.org/record/929533)  
+[ECAM Deliverable 7.3, Hardware Developments I](https://zenodo.org/record/1207613)  
 
 **Articles:
 
